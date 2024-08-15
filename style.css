@@ -1,0 +1,11 @@
+body{
+    background: green;
+}
+
+input{
+    margin: 20px;
+    display: block;
+}
+button{
+    width: 100px;
+}
